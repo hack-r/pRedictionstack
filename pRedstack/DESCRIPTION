@@ -1,0 +1,8 @@
+Package: pRedstack
+Title: pRedstack compares performance of algorithms to save you time.
+Version: 0.1
+Authors@R: "Jason Miller <root@hack-r.com> [aut, cre]"
+Description: This package runs multiple algorithms on your data with similar settings and compares their performance, thereby helping you select the best algorithm to work with on a given project when time is a constraint. The package currently supports OLD regression, probit, logit, Random Forests, and Bayesian Additive Regression Trees. 
+Depends: R (>= 3.1.2)
+License: GNU
+LazyData: true
